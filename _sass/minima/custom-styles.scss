@@ -1,11 +1,96 @@
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-@import "minima/fastpages-styles";   
-
-
+@import "minima/fastpages-styles";
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
+@media (max-width: 900px) {
+  .blank {
+    display: none !important;
+  }
+}
+
+@media (max-width: 750px) {
+  nav,
+  .blank {
+    display: none !important;
+  }
+  header.custom {
+    justify-content: center;
+    padding-bottom: 28px;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.page-content,
+header.custom {
+  padding: 0;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  background: white !important;
+}
+
+.main {
+  margin: 0 auto;
+  background: white;
+  min-height: 100vh;
+
+  position: relative;
+}
+
+.blank {
+  width: 120px;
+}
+
+.wrapper {
+  margin-top: 6rem;
+  max-width: 960px;
+  // padding: 0px 1rem;
+}
+
+header.custom {
+  background: white;
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  padding: 32px 64px 32px 64px;
+  img {
+    width: 120px;
+  }
+}
+
+nav {
+  display: flex;
+  text-align: center;
+  flex-grow: 1;
+  a {
+    display: inline-block;
+    text-decoration: none !important;
+    font-size: 16px;
+    margin: 0 16px;
+    color: #000 !important;
+    padding-bottom: 2px;
+    border-bottom: 5px solid #fff;
+    &.active {
+      border-bottom: 5px solid #ccc !important;
+    }
+  }
+}
+
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-@import "minima/fastpages-dracula-highlight"; 
+@import "minima/fastpages-dracula-highlight";
