@@ -423,6 +423,32 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+@media (max-width: 900px) { .blank { display: none !important; } }
+
+@media (max-width: 750px) { nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } }
+
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; background: black !important; }
+
+footer { display: none !important; }
+
+.page-content, header.custom { padding: 0; width: 100%; max-width: 1400px; margin: 0 auto; background: white !important; }
+
+.main { margin: 0 auto; background: white; min-height: 100vh; position: relative; }
+
+.blank { width: 120px; }
+
+.wrapper { margin-top: 6rem; max-width: 960px; }
+
+header.custom { background: white; display: flex !important; flex-direction: row; align-items: center; padding: 32px 64px 32px 64px; }
+
+header.custom img { width: 120px; }
+
+nav { display: flex; text-align: center; flex-grow: 1; }
+
+nav a { display: inline-block; text-decoration: none !important; font-size: 16px; margin: 0 16px; color: #000 !important; padding-bottom: 2px; border-bottom: 5px solid #fff; }
+
+nav a.active { border-bottom: 5px solid #ccc !important; }
+
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
