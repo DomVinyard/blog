@@ -4,8 +4,8 @@
         "post0": {
             "title": "Test 2",
             "content": "test . test test test .",
-            "url": "https://new-co.ooo/blog/2020/05/05/Test-2.html",
-            "relUrl": "/2020/05/05/Test-2.html",
+            "url": "https://new-co.ooo/blog/markdown/2020/05/05/Test-2.html",
+            "relUrl": "/markdown/2020/05/05/Test-2.html",
             "date": " • May 5, 2020"
         }
         
