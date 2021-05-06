@@ -69,6 +69,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
   background: black !important;
 }
 
@@ -118,6 +119,10 @@ footer.custom {
   }
 }
 
+.page-content {
+  padding-bottom: 320px !important;
+}
+
 .page-content,
 header.custom,
 footer.custom {
@@ -136,7 +141,6 @@ header.custom {
   margin: 0 auto;
   background: white;
   min-height: 100vh;
-
   position: relative;
 }
 
