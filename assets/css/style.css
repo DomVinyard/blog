@@ -427,6 +427,8 @@ pre code { font-size: 15px !important; }
 
 @media (max-width: 750px) { nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } footer.custom { padding: 1rem 1rem 2rem 1rem; } footer.custom .inner { width: 100%; } footer.custom .email { font-size: 18px; } footer.custom .top img { width: 110px; } footer.custom .top p { display: none; } footer.custom .bottom { padding-top: 4px; font-size: 0.8rem; } footer.custom .bottom a { margin-right: 12px; } footer.custom .bottom .long { display: none; } footer.custom .bottom .short { display: inline-block; } }
 
+.page-description { margin-top: 0px !important; margin-bottom: 0.5rem !important; color: rgba(88, 88, 88, 0.61); font-size: 1.8rem; }
+
 .email { font-size: 21px; color: white; text-decoration: none; display: flex; align-items: center; flex-direction: row; }
 
 article { margin-bottom: 6rem; }
