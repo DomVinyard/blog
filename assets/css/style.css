@@ -425,13 +425,33 @@ pre code { font-size: 15px !important; }
 /*----- ADD YOUR STYLES BELOW -------*/
 @media (max-width: 900px) { .blank { display: none !important; } }
 
-@media (max-width: 750px) { nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } }
+@media (max-width: 750px) { nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } footer.custom { padding: 1rem 1rem 2rem 1rem; } footer.custom .inner { width: 100%; } footer.custom .email { font-size: 18px; } footer.custom .top img { width: 110px; } footer.custom .top p { display: none; } footer.custom .bottom { padding-top: 4px; font-size: 0.8rem; } footer.custom .bottom a { margin-right: 12px; } footer.custom .bottom .long { display: none; } footer.custom .bottom .short { display: inline-block; } }
+
+.email { font-size: 21px; color: white; text-decoration: none; display: flex; align-items: center; flex-direction: row; }
 
 body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; background: black !important; }
 
-footer { display: none !important; }
+footer.custom { background: #343434; color: white; padding: 4rem 0; position: absolute; bottom: -2px; left: 0; right: 0; }
 
-.page-content, header.custom { padding: 0; width: 100%; max-width: 1400px; margin: 0 auto; background: white !important; }
+footer.custom .copyright { float: right; margin-right: 0; }
+
+footer.custom .inner { width: 90%; max-width: 960px; margin: 0 auto; }
+
+footer.custom .top { padding: 2rem 0; display: flex; flex-direction: row; justify-content: space-between; }
+
+footer.custom .top img { width: 180px; }
+
+footer.custom .top p { margin-top: 4px; color: #888; }
+
+footer.custom .bottom { border-top: 1px solid #555; padding-top: 6px; font-size: 0.9rem; opacity: 0.4; }
+
+footer.custom .bottom a { color: white; text-decoration: none; margin-right: 22px; }
+
+footer.custom .bottom .short { display: none; }
+
+.page-content, header.custom, footer.custom { width: 100%; max-width: 1400px; margin: 0 auto; }
+
+.page-content, header.custom { padding: 0; background: white !important; }
 
 .main { margin: 0 auto; background: white; min-height: 100vh; position: relative; }
 
