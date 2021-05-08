@@ -12,8 +12,34 @@ fields:
   hidden: true
   default: blog
 - type: text
-  name: description
-  label: description
-- type: text
   name: title
-  label: title
+  label: Title
+  config:
+    min: 3
+    max: 20
+    required: true
+- type: text
+  name: description
+  label: Description
+  config:
+    required: true
+    min: 3
+    max: 20
+- name: author
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: avatar
+    type: file
+    config:
+      maxSize: 64
+    label: Avatar
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Author
