@@ -5,9 +5,12 @@ fields:
 - type: boolean
   name: toc
   label: toc
+  hidden: true
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: blog
 - type: text
   name: description
   label: description
