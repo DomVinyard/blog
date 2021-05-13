@@ -7,7 +7,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: blog/uploads
+upload_dir: uploads
 public_path: "/blog/uploads"
 front_matter_path: ''
 use_front_matter_path: false
