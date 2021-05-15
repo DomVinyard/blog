@@ -34,7 +34,14 @@
     justify-content: center;
     padding-bottom: 28px;
   }
-
+  .post-link {
+    line-height: 1.8rem;
+  }
+  .post-content h2 {
+    font-size: 1.3rem;
+    font-weight: 800 !important;
+    margin-bottom: -0.5rem !important;
+  }
   footer.custom {
     padding: 1rem 1rem 2rem 1rem;
     .inner {
@@ -45,7 +52,7 @@
     }
     .top {
       img {
-        width: 110px;
+        width: 110px !important;
       }
       p {
         display: none;
@@ -64,6 +71,19 @@
         display: inline-block;
       }
     }
+  }
+}
+
+@media (min-width: 759px) {
+  blockquote,
+  blockquote > :last-child {
+    font-size: 26px !important;
+  }
+  .post-content h2 {
+    font-size: 1.6rem;
+    margin-bottom: -0.5rem !important;
+    margin-top: 3rem !important;
+    font-weight: 800 !important;
   }
 }
 
