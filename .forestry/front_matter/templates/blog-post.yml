@@ -43,3 +43,5 @@ fields:
     max: 
     labelField: 
   label: Author
+pages:
+- _posts/remote-the-post-covid-workplace.md
