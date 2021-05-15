@@ -16,7 +16,7 @@ fields:
   label: Title
   config:
     min: 3
-    max: 20
+    max: 40
     required: true
 - type: text
   name: description
@@ -24,7 +24,7 @@ fields:
   config:
     required: true
     min: 3
-    max: 20
+    max: 40
 - name: author
   type: field_group_list
   fields:
