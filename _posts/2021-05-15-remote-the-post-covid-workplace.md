@@ -52,6 +52,6 @@ And so when the employer surveys circulate asking how you feel about the new nor
 
 It’s a tick that might last forever.
 
-—
+---
 
-NewCo is based at Somerset House in London.
+_NewCo is based at Somerset House in London._
