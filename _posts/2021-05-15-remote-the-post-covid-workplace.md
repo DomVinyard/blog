@@ -3,7 +3,9 @@ layout: blog
 toc: false
 title: 'Remote: The post-Covid workplace'
 description: Do you miss the office?
-author: []
+author:
+- name: ''
+  avatar: ''
 
 ---
 ![](/blog/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg)
