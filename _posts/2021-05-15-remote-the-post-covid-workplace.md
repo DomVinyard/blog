@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 toc: false
 title: 'Remote: The post-Covid workplace'
 description: Do you miss the office?
