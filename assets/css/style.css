@@ -425,7 +425,9 @@ pre code { font-size: 15px !important; }
 /*----- ADD YOUR STYLES BELOW -------*/
 @media (max-width: 900px) { .blank { display: none !important; } }
 
-@media (max-width: 750px) { .post-title { font-size: 2rem !important; } article { margin-bottom: 3rem !important; } .page-description { font-size: 1.4rem !important; } .wrapper { margin-top: 3rem !important; } nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } footer.custom { padding: 1rem 1rem 2rem 1rem; } footer.custom .inner { width: 100%; } footer.custom .email { font-size: 18px; } footer.custom .top img { width: 110px; } footer.custom .top p { display: none; } footer.custom .bottom { padding-top: 4px; font-size: 0.8rem; } footer.custom .bottom a { margin-right: 12px; } footer.custom .bottom .long { display: none; } footer.custom .bottom .short { display: inline-block; } }
+@media (max-width: 750px) { .post-title { font-size: 2rem !important; } article { margin-bottom: 3rem !important; } .page-description { font-size: 1.4rem !important; } .wrapper { margin-top: 3rem !important; } nav, .blank { display: none !important; } header.custom { justify-content: center; padding-bottom: 28px; } .post-link { line-height: 1.8rem; } .post-content h2 { font-size: 1.3rem; font-weight: 800 !important; margin-bottom: -0.5rem !important; } footer.custom { padding: 1rem 1rem 2rem 1rem; } footer.custom .inner { width: 100%; } footer.custom .email { font-size: 18px; } footer.custom .top img { width: 110px !important; } footer.custom .top p { display: none; } footer.custom .bottom { padding-top: 4px; font-size: 0.8rem; } footer.custom .bottom a { margin-right: 12px; } footer.custom .bottom .long { display: none; } footer.custom .bottom .short { display: inline-block; } }
+
+@media (min-width: 759px) { blockquote, blockquote > :last-child { font-size: 26px !important; } .post-content h2 { font-size: 1.6rem; margin-bottom: -0.5rem !important; margin-top: 3rem !important; font-weight: 800 !important; } }
 
 .author-avatar { margin-top: -2px; display: inline !important; }
 
