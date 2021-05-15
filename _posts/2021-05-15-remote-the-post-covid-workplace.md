@@ -50,8 +50,8 @@ We’ll mourn them when they’re gone.
 
 And so when the employer surveys circulate asking how you feel about the new normal and your preferences for the future of work, think very carefully before you tick the box marked ‘remote only’.
 
-It’s a tick that might last forever.
+It’s a box that might stay ticked forever.
 
----
+***
 
 _NewCo is based at Somerset House in London._
