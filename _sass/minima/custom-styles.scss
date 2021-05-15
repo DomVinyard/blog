@@ -12,6 +12,20 @@
 }
 
 @media (max-width: 750px) {
+  .post-title {
+    font-size: 2rem !important;
+  }
+
+  article {
+    margin-bottom: 3rem !important;
+  }
+
+  .page-description {
+    font-size: 1.4rem !important;
+  }
+  .wrapper {
+    margin-top: 3rem !important;
+  }
   nav,
   .blank {
     display: none !important;
@@ -53,6 +67,15 @@
   }
 }
 
+.author-avatar {
+  margin-top: -2px;
+  display: inline !important;
+}
+
+.post-title {
+  font-size: 3rem;
+}
+
 .post-title,
 .post-link {
   color: black;
@@ -60,10 +83,10 @@
 }
 
 .page-description {
-  margin-top: 0px !important;
+  margin-top: -0.25rem !important;
   margin-bottom: 0.5rem !important;
   color: rgba(88, 88, 88, 0.61);
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 .email {

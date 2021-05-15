@@ -13,9 +13,17 @@ layout: default
       {%- endif -%}
     {%- endif -%}
     <p class="post-meta post-meta-title">
+      {%- if page.author -%}
+        {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <img class="author-avatar" width="24px" height="24px" src={{ author.avatar }}/>
+            <span class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif %}
       {%- assign date_format = site.minima.date_format | default: "%b %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
+        • {{ page.date | date: date_format }}
       </time>
       {%- if page.modified_date -%}
         ~ 
@@ -24,13 +32,6 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif %}
        • {% include reading_time.html -%}
     </p>
 
