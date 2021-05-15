@@ -16,7 +16,7 @@ layout: default
       {%- if page.author -%}
         {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <img class="author-avatar" width="24px" height="24px" src={{ author.avatar }}/>
+            <img class="author-avatar" width="24px" height="24px" src={{ author.avatar }} />
             <span class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
