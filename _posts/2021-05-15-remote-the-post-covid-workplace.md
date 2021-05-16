@@ -6,7 +6,7 @@ description: Do you miss the office?
 author:
 - name: Dom Vinyard
   avatar: "/blog/uploads/dom-1.png"
-image: "/blog/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg"
+image: "/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg"
 
 ---
 ![](/blog/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg)
