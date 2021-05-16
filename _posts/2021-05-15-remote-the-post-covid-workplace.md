@@ -6,11 +6,9 @@ description: Do you miss the office?
 author:
 - name: Dom Vinyard
   avatar: "/blog/uploads/dom-1.png"
-image: "/blog/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg"
+image: "/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg"
 
 ---
-![](/blog/uploads/1198f1af-e39f-4f8c-9f90-530567505a46.jpeg)
-
 There was once a man named Frederick Taylor. 100 years ago he embarked on a scientific quest for perfect workplace efficiency—Taylorism:
 
 > “There is not a single worker”, Taylor would repeat, “who does not devote a considerable part of his time to studying just how slowly he can work and still convince his employer that he is going at a good pace”.
