@@ -56,6 +56,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.image %}
+      <img src={{ page.image }} alt />
+    {% endif -%}
     {{ content | toc  }}
   </div>
   {%- if page.comments -%}
