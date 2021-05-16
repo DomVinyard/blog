@@ -38,13 +38,32 @@
   
 
   
+      ,"page5": {
+          "title": "",
+          "content": "",
+          "url": "https://newco.ooo/blog/blog/2021/05/15/remote-the-post-covid-workplace.html",
+          "relUrl": "/blog/2021/05/15/remote-the-post-covid-workplace.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page6": {
+          "title": "",
+          "content": "{“/blog/2021/05/15/remote-the-post-covid-workplace.html”:”https://newco.ooo/blog/Work-Life”} .",
+          "url": "https://newco.ooo/blog/redirects.json",
+          "relUrl": "/redirects.json",
+          "date": ""
+      }
+      
   
 
   
   
 
   
-      ,"page7": {
+      ,"page8": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://newco.ooo/blog/robots.txt",
@@ -52,6 +71,9 @@
           "date": ""
       }
       
+  
+
+  
   
 
 }
