@@ -39,7 +39,7 @@ Do you miss the office?
 
 A lot of people who miss the office have now said goodbye forever. Not everybody will be invited back. For many, the next few years will be a slow farewell; death by a thousand lapsed leases.
 
-The office space itself will be reborn. The serendipitous interactions and the decades of architectural design that enabled them will continue to flourish. The spaces will be [beautifully adapted to our new needs](https://www.dezeen.com/2020/06/11/woods-bagot-office-layouts-post-coronavirus).
+The office itself will be reborn. The serendipitous interactions and the decades of architectural design that enabled them will continue to flourish. The spaces will be [beautifully adapted to our new needs](https://www.dezeen.com/2020/06/11/woods-bagot-office-layouts-post-coronavirus).
 
 But not for all of us. Offices are expensive and we’ve proven that we don’t need them. They will become a perk, a luxury. The writing is on all four walls, the office will be a place that you are promoted into. The friendship and bonds born at the office will be sacrifices we won’t realise we’re being asked to make until it’s too late. Perhaps the impact seems less apparent to us, locked down here in 2021, acclimated to the isolation and detached from the memory of physical communal spaces. The immeasurable power they have to foster love and community.
 
