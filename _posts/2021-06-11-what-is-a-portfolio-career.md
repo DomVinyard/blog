@@ -5,7 +5,7 @@ title: "What is a Portfolio Career? "
 description: '"Follow your passion" has a new meaning'
 author:
   - name: Naïma Camara
-    avatar: "/blog/uploads/nim-1.png"
+    avatar: "/uploads/nim-1.png"
 image: "/uploads/group-1.png"
 ---
 
