@@ -1,14 +1,14 @@
 ---
 layout: post
 toc: false
-title: 'What is a Portfolio Career? '
+title: "What is a Portfolio Career? "
 description: '"Follow your passion" has a new meaning'
 author:
-- name: Naïma Camara
-  avatar: "/uploads/nim-1.png"
+  - name: Naïma Camara
+    avatar: "/blog/uploads/nim-1.png"
 image: "/uploads/group-1.png"
-
 ---
+
 "Work has changed" is an understatement at this point. The last decade completely revised what society considers to be a "job." Content creator, influencer and digital creator are no longer anomalies. Uber and TaskRabbit popularised gig work in a way that would have been unimaginable at the turn of the century. Now platforms like Fiverr, Upwork and PeoplePerHour brought freelancing to the masses. Individuals use these platforms to provide an array of services. Freelancers can be paid per task, per hour or per milestone.
 
 These platforms elevate the most sought after freelancers with the highest star ratings. A nice idea in principle. Some can make a stable income by reaching the height of their niche, but many are commodifying themselves for profit at the expense of a steady income.
