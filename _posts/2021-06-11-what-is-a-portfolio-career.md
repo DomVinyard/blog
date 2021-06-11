@@ -1,14 +1,14 @@
 ---
 layout: post
 toc: false
-title: "What is a Portfolio Career? "
+title: 'What is a Portfolio Career? '
 description: '"Follow your passion" has a new meaning'
 author:
-  - name: Naïma Camara
-    avatar: "/uploads/nim-1.png"
+- name: Naïma Camara
+  avatar: "/uploads/nim-1.png"
 image: "/uploads/group-1.png"
----
 
+---
 "Work has changed" is an understatement at this point. The last decade completely revised what society considers to be a "job." Content creator, influencer and digital creator are no longer anomalies. Uber and TaskRabbit popularised gig work in a way that would have been unimaginable at the turn of the century. Now platforms like Fiverr, Upwork and PeoplePerHour brought freelancing to the masses. Individuals use these platforms to provide an array of services. Freelancers can be paid per task, per hour or per milestone.
 
 These platforms elevate the most sought after freelancers with the highest star ratings. A nice idea in principle. Some can make a stable income by reaching the height of their niche, but many are commodifying themselves for profit at the expense of a steady income.
@@ -41,4 +41,4 @@ Before reinventing how you work there are a few things to consider. What is your
 
 [Since lockdown began the number of new companies formed in the U.K. and U.S. was up 40% versus a year earlier, and most of those new companies were portfolio professionals.](https://digiday.com/marketing/rise-of-portfolio-careers-pandemic-spurs-more-people-to-embrace-multiple-vocations/) According to the ONS, there are over 5 million self-employed people in the UK working in a wide-variety of industries. This figure will only grow over time as more platforms for creative endeavours are created and as the pandemic has changed what we look to get out of our work.
 
-If you want to test the possibilities of a portfolio career, a great place to start is on [NewCo](https://newco.ooo/start). NewCo is a place to work on each others' startup ideas. It's built for diverse teams from all over the world. Coming this summer to Android and iOS. ⁠
+If you want to test the possibilities of a portfolio career, a great place to start is on [NewCo](https://newco.ooo/start). NewCo is a place to work on each others' startup ideas. It's built for diverse teams from all over the world. [Coming this summer to Android and iOS](https://newco.ooo/start). ⁠
