@@ -19,7 +19,7 @@ The first _human house_ dates to about 400,000 years ago. Around that time, some
 
 We can go back further. Humans are descended from a species called Homo Erectus. They were pretty great really, anatomically similar to us, skilled with stone tools, and we've found [one of their houses](http://news.bbc.co.uk/1/hi/sci/tech/662794.stm) in Japan. It's not quite as solid as the one in France but the post-holes are well dug.
 
-_Inside_ is therefore a technology that we inherited from our ancestors. John Rick, Archeologist from Stanford tells us this about Homo Erectus:
+_'Inside'_ is therefore a technology that we inherited from our ancestors. John Rick, Archeologist from Stanford tells us about Homo Erectus:
 
 > They had the idea of actually making a structure, a place where you might sleep. It represents a conceptual division between inside and outside.
 
