@@ -31,7 +31,7 @@ Inside.
 
 If only they could see us now.
 
-Before we wandered into the caves we slept out on the plains and before the plains we slept up in the trees, in nests. Before we evolved into _hominids at all_ we were these [weird cat things](https://en.wikipedia.org/wiki/Plesiadapis) and they weren't building houses for shit.
+Before we wandered into the caves we slept out on the plains and before the plains we slept up in the trees, in nests. Before we evolved into _hominids at all_ we were these [weird cat things](https://en.wikipedia.org/wiki/Plesiadapis#/media/File:Plesiadapis_sp._-_MUSE.JPG) and they weren't building houses for shit.
 
 The sad truth is that we'll likely never know who invented _inside,_ the very first thinker to imagine a life not entirely outdoors. And yet, while that moment of discovery will remain lost to prehistory, I have a distinct feeling they would've recognised the significance of their innovation at the time. In joining those dots, imagining that future, they’d have known they were doing something remarkable. It's an odd thing to do, to salute someone from the other side of a 2 million year stretch but that's where we'll end.
 
