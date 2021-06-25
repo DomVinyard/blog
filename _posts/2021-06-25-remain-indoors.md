@@ -6,7 +6,7 @@ description: A quick history of the interior
 author:
 - name: Dom Vinyard
   avatar: "/uploads/dom-1.png"
-image: "/uploads/inside.png"
+image: "/uploads/group-1786.png"
 
 ---
 We've been stuck inside a lot this past year. Hours spent staring blankly out the window, the ever-deepening claustrophobia as the seasons came and fled. So it was, one evening in lockdown, I set out to answer a fundamental question:
