@@ -9,7 +9,7 @@ author:
 image: "/uploads/group-1786.png"
 
 ---
-We've been stuck inside a lot this past year. Hours spent staring blankly out the window, the deepening claustrophobia as the seasons came and fled. So it was, one evening in lockdown, I set out to answer a fundamental question:
+We've been stuck inside a lot this past year. Hours spent looking blankly out the window, the deepening claustrophobia as the seasons came and fled. So it was, one evening in lockdown, I set out to answer a fundamental question:
 
 Who invented 'inside'?
 
