@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: false
-title: Remain Indoors
-description: Who invented 'inside'?
+title: Who invented 'inside'?
+description: A quick history of the interior
 author:
 - name: Dom Vinyard
   avatar: "/uploads/dom-1.png"
