@@ -9,11 +9,11 @@ author:
 image: "/uploads/group-1786.png"
 
 ---
-We've been stuck inside a lot this past year. Hours spent looking blankly out the window, deepening claustrophobia as the seasons came and fled. So it was, one evening in lockdown, I set out to answer a fundamental question:
+We've been stuck inside a lot this past year. Hours spent staring vacantly out the window, deepening claustrophobia as the seasons came and fled. So it was, one evening in lockdown, I set out to answer a fundamental question:
 
 Who invented 'inside'?
 
-Animals that burrow have an _inside_ (inside the burrow). Bees have an _inside_ (inside the hive). Humans though, we don't burrow and we don't build hives to the very best of my knowledge. Presumably there was once a time before we had an inside to get locked-down in.
+Animals that burrow have an _inside_ (inside the burrow). Bees have an _inside_ (inside the hive). Humans though, we don't burrow and we don't build hives to the best of my knowledge. Presumably there was once a time before we had an inside to get locked-down in.
 
 The first _human house_ dates to about 400,000 years ago. Around that time, someone in France [built themselves a house](https://humanorigins.si.edu/evidence/behavior/hearths-shelters/terra-amata-shelter). Now, it wasn't called France then, and it wasn't called a house, but that's distinctly what it was. It had supports and foundations and a fire in the middle. The image at the top of this article is an artist's reconstruction.
 
