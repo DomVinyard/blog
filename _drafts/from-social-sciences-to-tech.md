@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: false
-title: From Social Sciences to Tech
-description: How does a social science student becom
+title: 'From Social Sciences to Software Dev? '
+description: How did I do it?
 author:
 - name: Mahmut Sel
   avatar: ''
