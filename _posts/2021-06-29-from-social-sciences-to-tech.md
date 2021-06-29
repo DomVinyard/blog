@@ -15,7 +15,7 @@ When I was an intern at a bank during my undergraduate years, the task of my dep
 
 After the experience at the bank, I started to ask myself what kind of job do I want? More importantly, what could be my dream job? What occupation makes me happy and feel proud? While I was looking for answers to these questions, I moved to the United Kingdom and opened a new chapter in my life.
 
-Let me tell you about my academic background. I was ranked in the top 1st percentile in a very competitive nationwide university entrance exam. I decided to study Political-Science and International-Relations. I took core subjects in a four year programme, but also attended elective modules outside of my specialism. In time, I gained a good understanding of politics, economy, management, globalization, and development. They all together shaped my intellectual backbone. This means I am a social science graduate :) I know what you’re thinking, ‘wait, I was looking for a tech blog, how did I end up here?’. Don't worry, the story begins here.
+Let me tell you about my academic background. I was ranked in the top 1st percentile in a very competitive nationwide university entrance exam. I decided to study Political-Science and International-Relations. I took core subjects in a four year programme, but also attended elective modules outside of my specialism. In time, I gained a good understanding of politics, economy, management, globalization, and development. They all together shaped my intellectual backbone. This means I am a social science graduate. I know what you’re thinking, ‘wait, I was looking for a tech blog, how did I end up here?’. Don't worry, the story begins here.
 
 **The Pandemic Made Me Consider A Different Path**
 
