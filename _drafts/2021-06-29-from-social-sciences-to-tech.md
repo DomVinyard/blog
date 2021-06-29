@@ -2,7 +2,7 @@
 layout: post
 toc: false
 title: Social Sciences to Software Dev
-description: Career transition
+description: 'A New Chapter in My Life '
 author:
 - name: Mahmut Sel
   avatar: "/uploads/mahmut.png"
