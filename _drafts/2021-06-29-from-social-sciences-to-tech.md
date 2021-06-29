@@ -25,7 +25,7 @@ Wait! Complete postgraduate study in front of a computer screen, no thanks. It w
 
 **It’s Safe to Say, I Had Some Preconceived Notions About Tech**
 
-I am grateful that during this tumultuous time, I came across an advert for a full-stack web development bootcamp. When I was applying for the course, I had many prejudices around working in tech. Many of them came from pop culture protagonists like Mr. Robot. I imagined a tech person sitting in front of a computer in a dark, misty room of an apartment for hours without contacting anybody. Even with these biases, I decided to give it a try and went for an induction session.
+I am grateful that during this tumultuous time, I came across an advert for a full-stack web development bootcamp. When I was applying for the course, I had many prejudices around working in tech. Many of them came from pop culture protagonists like [Mr. Robot](https://www.imdb.com/title/tt4158110/). I imagined a tech person sitting in front of a computer in a dark, misty room of an apartment for hours without contacting anybody. Even with these biases, I decided to give it a try and went for an induction session.
 
 I soon found answers for my questions. Now when I think about a tech person’s daily life, the lyrics of the famous song rings in my ears ‘You will never walk alone’. As a team, you take on problems, chase for solutions, ask for help, collaborate with each other, brainstorm ideas and come up with a solution. Technology grows and expands almost every single day. Everyone keeps learning, discovering and helping each other. In short, you are not a lone wolf in a wild brutal tech jungle. If you like uncertainty and spontaneity, you will definitely fall in love with the wilderness of unanswered questions in this world. I love the idea of being able to learn so much and still not knowing enough. Technology offers me hundreds of solutions for a problem and still leaves the door open for many others. Staying hungry to learn each Monday gets me really excited.
 
@@ -41,4 +41,4 @@ I believe a social _science_ background will empower the tech person that can le
 
 So you can support your team with those critical-analysis tools and assets. That would be tremendously helpful for the problem solving aspects of technology.
 
-If you are looking for a new opportunity in tech and hesitant to go for it, I would definitely shout out loud: “GOOO!”
+If you are looking for a new opportunity in tech and hesitant to go for it, I would definitely shout out loud: “GO!”
