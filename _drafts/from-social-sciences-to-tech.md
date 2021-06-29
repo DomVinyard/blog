@@ -1,21 +1,18 @@
 ---
 layout: post
 toc: false
-title: 'From Social Sciences to Software Dev? '
+title: From Social Sciences to Software Dev
 description: How did I do it?
 author:
 - name: Mahmut Sel
-  avatar: ''
+  avatar: "/uploads/mahmut.png"
 image: "/uploads/screenshot-2021-06-28-at-14-44-53.png"
 
 ---
-
-How does a social science student become a software engineer?
-
 When I was an intern at a bank during my undergraduate years, the task of my department was to contact other correspondent banks all over the world and enhance relationships. The job seemed complicated at first, but I managed to get a general idea in a short period of time. After six months, I was super confident and did not need to ask for help anymore from my mentor. I could even predict how many emails would be waiting for us on Mondays and I had templates of my answers already prepared. The job became repetitive and I stopped learning new skills. As a person who enjoys trying different things, I could not imagine myself being in the same repetitive cycle for multiple years.
 
-After the experience at the bank, I started to ask myself what kind of job do I want? More importantly, what could be my dream job? What occupation makes me happy and feel proud? While I was looking for answers to these questions, I moved to the United Kingdom and opened a new chapter in my life.   
-  
+After the experience at the bank, I started to ask myself what kind of job do I want? More importantly, what could be my dream job? What occupation makes me happy and feel proud? While I was looking for answers to these questions, I moved to the United Kingdom and opened a new chapter in my life.
+
 Let me tell you about my academic background. I was ranked in the top 1st percentile in a very competitive nationwide university entrance exam. I decided to study Political-Science and International-Relations. I took core subjects in a four year programme, but also attended elective modules outside of my specialism. In time, I gained a good understanding of politics, economy, management, globalization, and development. They all together shaped my intellectual backbone. This means I am a social science graduate :) I know what you’re thinking, ‘wait, I was looking for a tech blog, how did I end up here?’. Don't worry, the story begins here.
 
 **The Pandemic Made Me Consider A Different Path**
@@ -42,5 +39,4 @@ I believe a social _science_ background will empower the tech person that can le
 
 So you can support your team with those critical-analysis tools and assets. That would be tremendously helpful for the problem solving aspects of technology.
 
-  
 If you are looking for a new opportunity in tech and hesitant to go for it, I would definitely shout out loud: “GOOO!”
