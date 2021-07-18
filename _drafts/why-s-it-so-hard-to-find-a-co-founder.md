@@ -2,7 +2,7 @@
 layout: post
 toc: false
 title: 'Why''s it so hard to find a co-founder? '
-description: Looking for that special someone
+description: That special someone
 author:
 - name: ''
   avatar: ''
