@@ -4,25 +4,14 @@ toc: false
 title: 'Why''s it so hard to find a co-founder? '
 description: That special someone
 author:
-- name: ''
-  avatar: ''
 - name: Naima Camara
   avatar: "/uploads/nim-1.png"
 image: "/uploads/screenshot-2021-07-18-at-16-52-38.png"
 
 ---
-So you've come up with a great idea for an app, website or another business venture. You get started and soon realise that building the solution, marketing it and selling it to customers, is too much for one person to do. Especially as a side-hustle. But who can I work with on this? And more importantly, who do you trust?
+So you've come up with a great idea for an app, website or another business venture. You get started and soon realise that building the solution, marketing it and selling it to customers is too much for one person to do. Especially as a side-hustle. But who can I work with on this? And more importantly, who do you trust?
 
 Herein lies what leading business professor, Noam Wasserman terms _The Founder's Dilemmas._ According to Wasserman, venture capitalists (VCs) attribute 65% of failures within portfolio companies to problems within the startup's management team. The first dilemma is the one detailed above: solo-versus-team dilemma. Then after months of going at it alone, that special someone comes to the fore. Don't get too comfortable because this dilemma is swiftly followed by a tradeoff between "building financial value and maintaining a grip on the steering wheel." In every other part of life, building wealth and accumulating power come hand in hand, but when it comes to starting a business they are diametrically opposed.
-
-In the co-founder "honeymoon phase", when you're spending all day brainstorming with a glint in your eye and plotting your visions for the future, is really when one should be asking these difficult questions:
-
-1. What kind of organisation do I (or now we) want to build?
-2. What are our main objectives? Are they aligned?
-3. Are we building a slow and steady life-style business or a hyper-growth risky endeavour?
-4. What position should each of us take?
-5. What milestones do we want to hit and what are your key metrics to get there?
-6. How do we divide equity in a way that is fair? _Hint, hint. The answer is almost never 50/50._
 
 As Wasserman wisely reminds us, "the founding process is "a marathon made up of a series of 100-yard dashes" and "every 100 yards, the runner or founder faces a key decision with long-term consequences."
 
@@ -50,10 +39,25 @@ So now we've covered the basics, how do you go about finding "the one"?
 
 Try to identify a few people in your network with complimentary skills. If you're more technical, think of a commercially-led person to be your counterpart and vice-versa. Cast a wide-net to think about who you've enjoyed working with in the past and who could be a genuinely valuable addition to your project.
 
-If no one springs to mind, create a job description of your ideal candidate. Do a bit of Linkedin or Twitter stalking and create a shortlist of potential options. Consider casting a wide net and asking for introductions to a wide-range of people that could fit the bill.
+If no one springs to mind, create a job description of your ideal candidate. Do a bit of Linkedin or Twitter stalking and create a shortlist of potential options. Consider going beyond your network and ask people in your network who know you well for introductions to a wide-range of people that could fit the bill.
 
-Sadly, as was once the case with dating, [the best time to find a co-founder is when you're not actually looking for a co-founder to start a company with right now.](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) So really think back to any project or work endeavour that you found rewarding and see if anyone springs to mind.
+As once was the case with dating, [the best time to find a co-founder is when you're not actually looking for a co-founder to start a company with right now.](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) So really think back to any project or work endeavour that you found rewarding and see if anyone springs to mind.
 
-If you're unsure whether founding solo or working with someone else is the best fit, consider a partnership. Using platforms like Product Hunt, Twitter or IndieHackers can be a great place to meet likeminded people. Share your story and what you're trying to achieve, if it leaps out to someone, they'll be sure to offer feedback. Then potentially do some work for equity and the rest is history.
+If you're unsure whether founding solo or working with someone else is the best fit, consider a partnership. Using platforms like [Product Hunt](https://www.producthunt.com), [Bumble Bizz](https://bumble.com/en/bizz) or [IndieHackers](https://www.indiehackers.com) can be a great place to meet likeminded people. Share your story and what you're trying to achieve, if it leaps out to someone, they'll be sure to offer feedback. Then potentially do some work for equity and the rest is history.
 
-Trust me. This is not a relationship to enter without tackling the difficult questions at the outset.
+**Ask Difficult Questions Early On**
+
+In the co-founder "honeymoon phase", when you're spending all day brainstorming with a glint in your eye and plotting your visions for the future, is when one should be asking these difficult questions:
+
+1. What kind of organisation do I (or now we) want to build?
+2. What are our main objectives? Are they aligned?
+3. Are we building a slow and steady life-style business or a hyper-growth risky endeavour?
+4. What position should each of us take?
+5. What milestones do we want to hit and what are your key metrics to get there?
+6. How do we divide equity in a way that is fair? _Hint, hint. The answer is  never 50/50._
+
+**Anybody can be a founder**
+
+The next generation of founders won’t look the last generation, teams will be more global, more flexible and significantly more diverse. We believe in ideas, in rapid innovation, we believe that the barriers to entry are institutional rather than limitations of talent or passion. We believe, ultimately, that anybody can be a founder.
+
+**NewCo is the simple way to launch a startup: an app for professionals to work on each others' ideas for equity. The app is available this week on iOS and Android.**
